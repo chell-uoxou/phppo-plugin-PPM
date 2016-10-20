@@ -1,2 +1,2 @@
-# phppo-plugin-InstantCommandLoader
-To enable the git command.
+# phppo-plugin-PPM
+PHPPO Package Manager.
